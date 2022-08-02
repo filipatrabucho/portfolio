@@ -7,6 +7,9 @@
   text-decoration: none;
   scroll-behavior: smooth;
 }
+p {
+  color: #333;
+}
 a {
   text-decoration: none;
   color: #f0f8ff;
@@ -518,8 +521,8 @@ footer .text span a:hover {
   .home {
     background: url("images/mobilev2.png") no-repeat;
   }
-  .contact-form {
-    margin: 0px 1% !important;
+   .contact-form {
+    margin: 0px 6% !important;
     width: 312px !important;
   }
 }
